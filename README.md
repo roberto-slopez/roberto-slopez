@@ -47,14 +47,116 @@ I worked with data scientists to extract training datasets from core banking sys
 
 ## Technical toolkit
 
-| Area | What I work with |
-| --- | --- |
-| Application development | C# / .NET, TypeScript, Node.js / NestJS, Python / Django, PHP / Laravel / Symfony, Go, Rust |
-| Frontend | React, Vue / PrimeVue, Tailwind CSS, Web Components, Ext JS |
-| Data and AI | PostgreSQL, SQL Server, Oracle, MySQL, Redis, RAG, pgvector, MCP, ONNX Runtime |
-| Architecture | Microservices, Clean Architecture, API gateways, event-driven systems, REST, gRPC |
-| Cloud and delivery | AWS Fargate, Azure, Docker, Terraform, Azure DevOps, CI/CD, Cypress |
-| Engineering leadership | Architecture reviews, sprint planning, mentoring, code reviews, and technical estimates |
+### Languages & runtimes
+
+![C#](https://img.shields.io/badge/C%23-253653?style=flat-square&logo=dotnet&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-253653?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-253653?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-253653?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-253653?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-253653?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-253653?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-253653?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-253653?style=flat-square&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-253653?style=flat-square&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-253653?style=flat-square&logo=ruby&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-253653?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-253653?style=flat-square)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-07535B?style=flat-square&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-07535B?style=flat-square&logo=vuedotjs&logoColor=white)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-07535B?style=flat-square&logo=primevue&logoColor=white)
+![Ext JS](https://img.shields.io/badge/Ext%20JS-07535B?style=flat-square)
+![Astro](https://img.shields.io/badge/Astro-07535B?style=flat-square&logo=astro&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-07535B?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-07535B?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-07535B?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-07535B?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-07535B?style=flat-square&logo=css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-07535B?style=flat-square&logo=sass&logoColor=white)
+![SVG](https://img.shields.io/badge/SVG-07535B?style=flat-square&logo=svg&logoColor=white)
+![Web Components](https://img.shields.io/badge/Web%20Components-07535B?style=flat-square&logo=webcomponents&logoColor=white)
+
+### Backend & APIs
+
+![.NET](https://img.shields.io/badge/.NET-363467?style=flat-square&logo=dotnet&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-363467?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-363467?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-363467?style=flat-square&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-363467?style=flat-square&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-363467?style=flat-square&logo=symfony&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-363467?style=flat-square&logo=rubyonrails&logoColor=white)
+![Sinatra](https://img.shields.io/badge/Sinatra-363467?style=flat-square)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-363467?style=flat-square&logo=socketdotio&logoColor=white)
+![REST](https://img.shields.io/badge/REST-363467?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-363467?style=flat-square&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-363467?style=flat-square)
+
+### Databases & data access
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334B2D?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-334B2D?style=flat-square)
+![Oracle Database](https://img.shields.io/badge/Oracle%20Database-334B2D?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-334B2D?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-334B2D?style=flat-square&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-334B2D?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-334B2D?style=flat-square&logo=redis&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-334B2D?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-334B2D?style=flat-square)
+![Chroma](https://img.shields.io/badge/Chroma-334B2D?style=flat-square)
+![LINQ](https://img.shields.io/badge/LINQ-334B2D?style=flat-square)
+![SqlKata](https://img.shields.io/badge/SqlKata-334B2D?style=flat-square)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-334B2D?style=flat-square)
+
+### AI, ML & speech
+
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-5B315D?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-5B315D?style=flat-square&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-5B315D?style=flat-square&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-5B315D?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-5B315D?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![A2A](https://img.shields.io/badge/A2A-5B315D?style=flat-square)
+![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-5B315D?style=flat-square&logo=onnx&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-5B315D?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-5B315D?style=flat-square&logo=tensorflow&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-5B315D?style=flat-square&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-5B315D?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper-5B315D?style=flat-square)
+![Qwen](https://img.shields.io/badge/Qwen-5B315D?style=flat-square)
+![NLLB-200](https://img.shields.io/badge/NLLB--200-5B315D?style=flat-square)
+![Kokoro](https://img.shields.io/badge/Kokoro-5B315D?style=flat-square)
+![XTTS](https://img.shields.io/badge/XTTS-5B315D?style=flat-square)
+
+### Cloud, infrastructure & delivery
+
+![AWS Fargate](https://img.shields.io/badge/AWS%20Fargate-674521?style=flat-square)
+![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-674521?style=flat-square&logo=amazonecs&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/Amazon%20ECR-674521?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-674521?style=flat-square)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-674521?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-674521?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-674521?style=flat-square&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-674521?style=flat-square&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-674521?style=flat-square)
+![Git](https://img.shields.io/badge/Git-674521?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-674521?style=flat-square&logo=github&logoColor=white)
+![Subversion](https://img.shields.io/badge/Subversion-674521?style=flat-square&logo=subversion&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-674521?style=flat-square)
+
+### Testing & automation
+
+![Cypress](https://img.shields.io/badge/Cypress-453750?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-453750?style=flat-square)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-453750?style=flat-square&logo=puppeteer&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-453750?style=flat-square&logo=jest&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-453750?style=flat-square&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-453750?style=flat-square&logo=cursor&logoColor=white)
+
+**Architecture** · Microservices, Clean Architecture, API gateways, and event-driven systems.
+
+**Engineering leadership** · Architecture reviews, sprint planning, mentoring, code reviews, and technical estimates.
 
 ## Career and education
 
